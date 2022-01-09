@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -19,7 +19,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@Hg5lv'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,9 +31,6 @@ sidebar:
 
       - idiom: German
         level: Intermediate
-
-      - idiom: Spanish
-        level: Upper Intermediate
 
       - idiom: Portuguese
         level: Native
@@ -61,8 +58,8 @@ experiences:
           - Designing, developing and maintaining integrations with third party systems, such as payments, deliveries and product portals. Most notably: Amazon Pay, Mollie Payments, Saferpay and Google Smart Shopping.
           - Maintaining and extending our REST API, as well as collaborating with the Technical Writing team to document the API.
     - role: Fullstack Developer
-      time: 2013 - 2017
-      company: Google, London
+      time: 2013 - 2016
+      company: Moloni, Lisbon
       details: |
         Moloni is an innovative startup focused on business management software.
           - Frontend and backend development with PHP, Prototype.Js and MySQL.
@@ -100,33 +97,33 @@ skills:
 
     toolset:
       - name: Perl
-        level:
+        level: 80%
 
       - name: Javascript & jQuery
-        level:
+        level: 80%
 
       - name: Java
-        level:
+        level: 70%
 
       - name: Scrum
-        level:
+        level: 70%
 
       - name: PHP
-        level:
+        level: 70%
 
       - name: MySQL
-        level:
+        level: 70%
 
       - name: Linux
-        level:
+        level: 70%
 
       - name: Git
-        level:
+        level: 70%
 
       - name: MongoDB
-        level:
+        level: 70%
 
       - name: REST API
-        level:
+        level: 80%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
