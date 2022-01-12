@@ -58,7 +58,7 @@ experiences:
           - Designing, developing and maintaining integrations with third party systems, such as payments, deliveries and product portals. Most notably: Amazon Pay, Mollie Payments, Saferpay and Google Smart Shopping.
           - Maintaining and extending our REST API, as well as collaborating with the Technical Writing team to document the API.
     - role: Fullstack Developer
-      time: 2013 - 2016
+      time: 2013 - 2017
       company: Moloni, Lisbon
       details: |
         Moloni is an innovative startup focused on business management software.
@@ -68,18 +68,15 @@ experiences:
           - Helped the company grow from startup to leading online billing software in Portugal.
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
     assignments:
       - title: React Portfolio Allocator and rebalancer
         link: "https://frosty-shockley-934976.netlify.app/"
         tagline: "A responsive website designed to help allocate capital and rebalance according to specific percentages. It uses a scrapping API and React frontend"
 
-      - title: Advent of code Bingo - https://adventofcode.com/2021/day/4
+      - title: Advent of code Bingo
         link: "https://github.com/HgSlv/adventOfCode_2021/blob/master/4_2_example.pm"
-        tagline: "Basically a Bingo game. Choosen to show coding style and naming"
+        tagline: "Basically a Bingo game for https://adventofcode.com/2021/day/4. Shows coding style and naming"
 
 skills:
     title: Skills &amp; Proficiency
