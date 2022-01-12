@@ -73,25 +73,14 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Stock
+      - title: React Portfolio Allocator and rebalancer
         link: "https://frosty-shockley-934976.netlify.app/"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website designed to help allocate capital and rebalance according to specific percentages. It uses a scrapping API and React frontend"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Advent of code Bingo - https://adventofcode.com/2021/day/4
+        link: "https://github.com/HgSlv/adventOfCode_2021/blob/master/4_2_example.pm"
+        tagline: "Basically a Bingo game. Choosen to show coding style and naming"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 skills:
     title: Skills &amp; Proficiency
 
