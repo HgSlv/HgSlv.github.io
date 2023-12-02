@@ -54,7 +54,7 @@ experiences:
       company: ePages, Hamburg
       details: |
         ePages is not only the largest independent supplier of online shop software, but with over 100,000 clients in 70 countries, it’s also one of the world’s most popular online shop solution, especially among small and mid-sized businesses.
-          - Frontend and backend development with Perl, Java, Javascript, MariaDB, MongoDB, Bootstrap.
+          - Frontend and backend development with Java, Javascript, Typescript and Perl.
           - Designing, developing and maintaining integrations with third party systems, such as payments, deliveries and product portals. Most notably: Amazon Pay, Mollie Payments, Saferpay and Google Smart Shopping.
           - Maintaining and extending our REST API, as well as collaborating with the Technical Writing team to document the API.
     - role: Fullstack Developer
@@ -82,34 +82,39 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Perl
-        level: 80%
 
-      - name: Javascript & jQuery
+      - name: Javascript
         level: 80%
 
       - name: Java
         level: 70%
 
-      - name: Scrum
+      - name: Typescript
+        level: 70%
+
+      - name: Perl
         level: 70%
 
       - name: PHP
         level: 70%
 
+      - name: Jax-Rs
+
+      - name: Spring Boot
+
+      - name: React.js
+
+      - name: Google Cloud Project
+
       - name: MySQL
-        level: 70%
 
       - name: Linux
-        level: 70%
 
       - name: Git
-        level: 70%
 
       - name: MongoDB
-        level: 70%
 
-      - name: REST API
-        level: 80%
+      - name: Scrum
+        level: 70%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
